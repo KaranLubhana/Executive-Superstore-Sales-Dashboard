@@ -5,9 +5,7 @@
 An interactive Power BI Executive Dashboard designed to analyze and extract actionable business insights from global superstore sales data. This project focuses on tracking enterprise revenue trends, evaluating regional performance, and understanding product category dynamics for data-driven executive decision-making.
 
 ### Dashboard Preview
-![Dashboard Screenshot](your-screenshot-name.png)
-*(Note: Replace this with the actual name of your uploaded screenshot file)*
-
+![Dashboard Screenshot](Screenshot%202026-06-18%20123534.jpg)
 ---
 
 ###  Project Overview
