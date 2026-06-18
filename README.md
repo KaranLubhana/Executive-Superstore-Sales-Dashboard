@@ -4,9 +4,8 @@
 
 An interactive Power BI Executive Dashboard designed to analyze and extract actionable business insights from global superstore sales data. This project focuses on tracking enterprise revenue trends, evaluating regional performance, and understanding product category dynamics for data-driven executive decision-making.
 
-### Dashboard Preview
-![Dashboard Screenshot](Screenshot%202026-06-18%20123534.jpg)
----
+### Dashboard Previe
+![Dashboard Screenshot](dashboard.jpg)
 
 ###  Project Overview
 The core objective of this executive-level dashboard is to transform raw sales data (`train.csv`) into a high-level visual story that helps stakeholders and management monitor business health. The report provides a comprehensive, drill-down view of how different regions, product segments, and shipping methods impact overall revenue.
